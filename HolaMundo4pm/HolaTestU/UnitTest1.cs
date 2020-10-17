@@ -10,7 +10,7 @@ namespace HolaTestU
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual("Hola Mundo", Program.createMessage());
+            Assert.AreEqual("Hola Mundo1", Program.createMessage());
         }
     }
 }

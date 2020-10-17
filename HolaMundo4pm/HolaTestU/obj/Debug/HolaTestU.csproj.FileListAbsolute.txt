@@ -1,0 +1,17 @@
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\bin\Debug\HolaTestU.dll
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\bin\Debug\HolaTestU.pdb
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\bin\Debug\HolaMundo4pm.exe
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\bin\Debug\HolaMundo4pm.pdb
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\bin\Debug\HolaMundo4pm.exe.config
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\obj\Debug\HolaTestU.csprojAssemblyReference.cache
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\obj\Debug\HolaTestU.csproj.CoreCompileInputs.cache
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\obj\Debug\HolaTestU.csproj.CopyComplete
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\obj\Debug\HolaTestU.dll
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaTestU\obj\Debug\HolaTestU.pdb

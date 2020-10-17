@@ -1,0 +1,7 @@
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaMundo4pm\bin\Debug\HolaMundo4pm.exe.config
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaMundo4pm\bin\Debug\HolaMundo4pm.exe
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaMundo4pm\bin\Debug\HolaMundo4pm.pdb
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaMundo4pm\obj\Debug\HolaMundo4pm.csprojAssemblyReference.cache
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaMundo4pm\obj\Debug\HolaMundo4pm.csproj.CoreCompileInputs.cache
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaMundo4pm\obj\Debug\HolaMundo4pm.exe
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest4pm\HolaMundo4pm\HolaMundo4pm\obj\Debug\HolaMundo4pm.pdb
